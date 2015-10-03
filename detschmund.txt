@@ -1,0 +1,41 @@
+
+pwd 
+	list presetn working directory
+
+ls
+	directoy listing
+
+cd [directory-name]
+	go into [directory-name]
+
+mkdir [directory-name]
+	make new folder with name [directory-name]
+
+touch [filename.ext]
+	creates a new file with name [filename.ext]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
