@@ -32,6 +32,8 @@ git log
 git log --oneline
 	Shows us all the commits in one line
 
+git log --graph
+
 git diff
 	Shows us what has changed between our working directory and staging area
 
@@ -49,6 +51,9 @@ git branch --delete [branch_name]
 
 git checkout [name]
 	switches to branch [branch_name]
+
+git checkout [commit-hash]
+	
 
 git merge [branch-name]
 	merge changes on [branch-name] into current branch
