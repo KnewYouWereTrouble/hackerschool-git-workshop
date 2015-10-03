@@ -44,11 +44,14 @@ git branch
 git branch [branch_name]
 	creates a new branch [branch_name]
 
+git branch --delete [branch_name]
+	delete the branch [branch_name]
+
 git checkout [name]
 	switches to branch [branch_name]
 
-
-
+git merge [branch-name]
+	merge changes on [branch-name] into current branch
 
 
 
