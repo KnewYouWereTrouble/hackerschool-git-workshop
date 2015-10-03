@@ -59,10 +59,11 @@ git merge [branch-name]
 	merge changes on [branch-name] into current branch
 
 
+git revert --no-edit [commit-id]
+	Reverse [commit-hash] commit by making another commit
 
-
-
-
+git reset --hard
+	Resets the working directory
 
 
 
