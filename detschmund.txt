@@ -52,8 +52,8 @@ git branch --delete [branch_name]
 git checkout [name]
 	switches to branch [branch_name]
 
-git checkout [commit-hash/tags]
-	switches to [commit-hash/tags]
+git checkout [commit-hash]
+	
 
 git merge [branch-name]
 	merge changes on [branch-name] into current branch
